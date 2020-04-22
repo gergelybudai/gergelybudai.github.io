@@ -57,8 +57,7 @@ img {
   margin-right: 250px;
 }
 h3 {
-  font-size: 22px;
-  
+  font-size: 22px; 
 }
 h4 {
   font-family: 'Merriweather', serif;
@@ -68,7 +67,6 @@ h4 {
 li {
   margin-left: 25px;
 }
-
 .thirdbig {
   font-family: 'Abril Fatface', cursive;
   background: dimgrey;
@@ -98,5 +96,4 @@ li {
   color: #222;
   margin-left: 280px;
   margin-right: 250px;
-  
 }
